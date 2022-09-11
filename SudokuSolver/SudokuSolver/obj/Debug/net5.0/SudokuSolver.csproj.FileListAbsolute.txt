@@ -1,0 +1,15 @@
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/bin/Debug/net5.0/SudokuSolver.deps.json
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/bin/Debug/net5.0/SudokuSolver.runtimeconfig.json
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/bin/Debug/net5.0/SudokuSolver.runtimeconfig.dev.json
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/bin/Debug/net5.0/SudokuSolver.dll
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/bin/Debug/net5.0/ref/SudokuSolver.dll
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/bin/Debug/net5.0/SudokuSolver.pdb
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/obj/Debug/net5.0/SudokuSolver.csproj.AssemblyReference.cache
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/obj/Debug/net5.0/SudokuSolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/obj/Debug/net5.0/SudokuSolver.AssemblyInfoInputs.cache
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/obj/Debug/net5.0/SudokuSolver.AssemblyInfo.cs
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/obj/Debug/net5.0/SudokuSolver.csproj.CoreCompileInputs.cache
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/obj/Debug/net5.0/SudokuSolver.dll
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/obj/Debug/net5.0/ref/SudokuSolver.dll
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/obj/Debug/net5.0/SudokuSolver.pdb
+/Users/ynesskhouader/TP_S2_C#/tp14-yness.khouader/SudokuSolver/SudokuSolver/obj/Debug/net5.0/SudokuSolver.genruntimeconfig.cache

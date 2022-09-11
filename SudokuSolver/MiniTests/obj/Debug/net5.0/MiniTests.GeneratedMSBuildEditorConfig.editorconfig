@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = MiniTests
+build_property.ProjectDir = /Users/ynesskhouader/EPITA/INFO SUP/INFORMATIQUE PRATIQUE/TP_S2_C#/tp14-yness.khouader/SudokuSolver/MiniTests/
